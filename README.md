@@ -1,12 +1,11 @@
 # CYS285-Lab files
 
 Lab 5 - Passwords and Encryption
-
 There are 4 files to download.
-TUX2.bmp
-Private.jpeg
-Private2.rar
-public.pem
+    TUX2.bmp
+    Private.jpeg
+    Private2.rar
+    public.pem
 
 Note that Private2.rar should be extracted with the following command
 unrar e Private2.rar
@@ -21,7 +20,7 @@ In the new window, select the new "Extract" button (upper right corner)
 Either close the message window or select the view files button. 
 
 There should be 4 files in Downloads now.
-test1.jpg
-test2.jpg
-test3.jpg
-image_carv_2017.raw
+    test1.jpg
+    test2.jpg
+    test3.jpg
+    image_carv_2017.raw
