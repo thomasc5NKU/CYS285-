@@ -1,4 +1,4 @@
-# CYS285-
+# CYS285-Lab 9 Digital Forensics
 Files for CYS 285 Labs
 
 Once the file is downloaded to Kali, select the "Save File" radial button and hit the "Open" button
